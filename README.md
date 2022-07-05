@@ -1,1 +1,2 @@
 # Password-Generator
+# during this challenge i got to start off with a starter code and had to add some key information to it. this challenge they wanted us to create a password generator that prompted certain questions to make sure it followed the guidelines for a password
